@@ -1,0 +1,15 @@
+{
+  "name": "redux-learning-lab",
+  "version": "1.0.0",
+  "description": "redux-learning-lab  Personal learning project for mastering Redux  I'm building this repository as a hands-on learning journey to improve my skills with Redux. It will contain various experiments, examples, and practice projects to help me solidify my understanding of Redux fundamentals, including state management, actions, reducers, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
